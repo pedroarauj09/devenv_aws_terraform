@@ -1,0 +1,11 @@
+variables.tf filter=lfs diff=lfs merge=lfs -text
+datasources.tf filter=lfs diff=lfs merge=lfs -text
+outputs.tf filter=lfs diff=lfs merge=lfs -text
+providers.tf filter=lfs diff=lfs merge=lfs -text
+terraform.tfvars filter=lfs diff=lfs merge=lfs -text
+userdata.tpl filter=lfs diff=lfs merge=lfs -text
+linux-ssh-config.tpl filter=lfs diff=lfs merge=lfs -text
+main.tf filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+terraform.tfstate filter=lfs diff=lfs merge=lfs -text
+terraform.tfstate.backup filter=lfs diff=lfs merge=lfs -text

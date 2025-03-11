@@ -1,2 +1,3 @@
-# Dev Environment with Terraform and AWS
-Created a development environment, allowing to access an AWS EC2 node by creating a SSH connection access in vscode , using Terraform to launch the resources dynamically and automatically  
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a4d291ac098987bf0529a5a3677adbd70a474f7aa3ef050f73c234e29d56b63
+size 231
