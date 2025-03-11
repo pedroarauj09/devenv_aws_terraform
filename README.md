@@ -1,7 +1,7 @@
 # Dev Environment with Terraform and AWS
 
 ## Overview
-This project automates the provisioning of a development environment on AWS using Terraform. The infrastructure includes a Virtual Private Cloud (VPC), subnets, security groups, EC2 instances, and other AWS resources. The setup enables developers to SSH into an EC2 instance using VS Code for seamless development. Was done in 
+This project automates the provisioning of a development environment on AWS using Terraform. The infrastructure includes a Virtual Private Cloud (VPC), subnets, security groups, EC2 instances, and other AWS resources. The setup enables developers to SSH into an EC2 instance using VS Code for seamless development. Was done in MoreThanCertified platform course.  
 
 ## Architecture
 <div align="center">
